@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raunit Sharma</h1>
 <h3 align="center">A passionate ECE student, Python Developer from India </h3>
 
-- 🔭 I’m currently working on **[Project or Skill you're learning]**
+- 🔭 I’m currently working on **integrating IoT, machine learning, and cloud APIs to build an intelligent plant monitoring system**
 
-- 🌱 I’m currently learning **[Technology or Topic - e.g., IoT, Embedded Systems, Python]**
+- 🌱 I’m currently learning **embedded systems, LoRa-based wireless communication, and AI integration in edge devices**
 
 - 👯 I’m looking to collaborate on **open-source projects or research**
-
-- 🤝 I’m looking for help with **[Anything specific you're struggling with]**
 
 - 💬 Ask me about **Python, C++, Git, IoT, etc.**
 
@@ -37,9 +35,9 @@
 
 ### 🧠 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](www.linkedin.com/in/raunit-sharma)
+
+
 
 ---
 
